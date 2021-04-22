@@ -137,7 +137,13 @@ public class HomeController : Controller
 
 ```
 
-It wasn't easy, but your application should now work. 
+It wasn't easy, but your application should now work. However, after building out your models there is one more step, which creates the tables in MySQL for your desired models. In the terminal, run
+```
+dotnet ef migrations add FirstMigration
+dotnet ef database update
+```
+
+After any changes you make to your models, you will run the same commands, changing the Migration Name (right now it is FirstMigration).
 
 ```dotnet watch run```
 
