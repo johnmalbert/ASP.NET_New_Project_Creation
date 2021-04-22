@@ -141,4 +141,7 @@ It wasn't easy, but your application should now work.
 
 ```dotnet watch run```
 
-Open up localhost:5000 and check it out.
+Open up localhost:5000 and check it out. It should look something like this!
+
+![image](https://user-images.githubusercontent.com/24249474/115765098-2ef39980-a35b-11eb-9c6a-f8d47e0838eb.png)
+
