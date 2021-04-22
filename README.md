@@ -11,7 +11,8 @@ cd *YOURAPPNAME*
 code .
 ```
 This will build an MVC boilerplate with the following folder structure:
-![image.png](https://boostnote.io/api/teams/1JJM5Mg-T/files/4896dd3b7893ef9e75e2d3444d87cb5acf7b9ec3edc8f9b72551b39555d70789-image.png)
+![image](https://user-images.githubusercontent.com/24249474/115764412-6150c700-a35a-11eb-80a0-31f7d860c423.png)
+
 
 If you ran ```dotnet run``` now, you would see the template in localhost:5000. 
 
