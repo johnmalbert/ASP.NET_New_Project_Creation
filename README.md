@@ -11,6 +11,8 @@ cd *YOURAPPNAME*
 code .
 ```
 This will build an MVC boilerplate with the following folder structure:
+
+
 ![image](https://user-images.githubusercontent.com/24249474/115764412-6150c700-a35a-11eb-80a0-31f7d860c423.png)
 
 
